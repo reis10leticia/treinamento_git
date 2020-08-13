@@ -17,5 +17,7 @@ int main(){
 
     div = n1/n2;
 
+    multiplicacao();    
+
     return 0;
 }
