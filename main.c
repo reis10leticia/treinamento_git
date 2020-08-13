@@ -3,12 +3,15 @@
 
 void multiplicacao(){
     printf("Vini presida");
-    printf("Leal Presidente 2021");
+    printf("Letícia vice-presidente 2020");
 
 }
 
 int main(){
     int div;
+    int a;
+
+    a = 3;
     n1 = 5;
     n2 = 10;
 
